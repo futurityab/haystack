@@ -1,5 +1,6 @@
 farm==0.5.0
 #--find-links=https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0.dev20201026
 fastapi
 uvicorn
 gunicorn
